@@ -1,0 +1,5 @@
+IP: 84.201.154.246;
+name_taski: https://taski2023.ddns.net/;
+name_kittygram: https://kittygram0823.ddns.net/;
+login: admin;
+password: admin;
