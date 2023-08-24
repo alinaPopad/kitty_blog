@@ -23,6 +23,7 @@
     ssl_dhparam /etc/letsencrypt/ssl-dhparams.pem; # managed by Certbot
 
 }
+
  server {
     if ($host = taski2023.ddns.net) {
         return 301 https://$host$request_uri;
